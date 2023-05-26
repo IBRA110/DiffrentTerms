@@ -1,0 +1,15 @@
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\bin\Debug\net7.0\DifferentTerms.exe
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\bin\Debug\net7.0\DifferentTerms.deps.json
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\bin\Debug\net7.0\DifferentTerms.runtimeconfig.json
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\bin\Debug\net7.0\DifferentTerms.dll
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\bin\Debug\net7.0\DifferentTerms.pdb
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\obj\Debug\net7.0\DifferentTerms.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\obj\Debug\net7.0\DifferentTerms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\obj\Debug\net7.0\DifferentTerms.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\obj\Debug\net7.0\DifferentTerms.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\obj\Debug\net7.0\DifferentTerms.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\obj\Debug\net7.0\DifferentTerms.dll
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\obj\Debug\net7.0\refint\DifferentTerms.dll
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\obj\Debug\net7.0\DifferentTerms.pdb
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\obj\Debug\net7.0\DifferentTerms.genruntimeconfig.cache
+C:\Users\Ibrahim\source\repos\DifferentTerms\DifferentTerms\obj\Debug\net7.0\ref\DifferentTerms.dll
